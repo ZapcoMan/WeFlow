@@ -271,18 +271,6 @@ npm run build
   </a>
 </p>
 
-## 📈 Star 历史
-
-<p align="center">
-  <a href="https://www.star-history.com/#hicccc77/WeFlow&type=date&legend=top-left">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hicccc77/WeFlow&type=date&theme=dark&legend=top-left" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hicccc77/WeFlow&type=date&legend=top-left" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hicccc77/WeFlow&type=date&legend=top-left" />
-    </picture>
-  </a>
-</p>
-
 ---
 
 <div align="center">
